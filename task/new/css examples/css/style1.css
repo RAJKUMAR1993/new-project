@@ -1,0 +1,11 @@
+.main{
+	 width: 70px;
+	 height: 20px;
+	 background-color: aqua;
+}
+.left{
+	height: 60px;
+	width: 50px;
+	float: left;
+	background-color: red;
+}
