@@ -1,0 +1,91 @@
+	.Header-div{
+	width: 100%;
+	border: 2px solid black;
+	height:200px;
+	
+	}
+	.a{
+		width: 20%;
+		height: 500px;
+		float: left;
+		border: 2px solid black;
+	}
+	.b{
+		width: 60%;
+		height: 500px;
+		float: left;
+	}
+	.b .div1 {
+		
+		border: 2px solid black;
+		height:100px;
+	}
+	.b .div2 {
+		
+		border: 2px solid black;
+		height:400px;
+	}
+	.c{
+		width: 19%;
+		height: 500px;
+		border: 1px solid black;
+		
+		float:left;
+	}
+	.b .div1 .photosList {
+	display:inline-block;
+    width:90%;
+    text-align:center;
+    list-style-type:none;
+    
+	}
+
+	.b .div1 .photosList div {
+    border:1px solid black;
+    width:80px;
+    height:80px;
+    display:inline-block;
+    margin: 4px 2px;
+    text-align:center;
+
+	}
+	
+
+/**	.d{
+		width: 60px;
+		height: 60px;
+		border: 1px solid blue;
+		margin: 5px;
+		display: inline;
+			}
+
+.e{
+		width: 60px;
+		height: 60px;
+		border: 1px solid blue;
+		margin: 5px;
+		display: inline;
+	}
+
+.f{
+		width: 60px;
+		height: 60px;
+		border: 1px solid blue;
+		margin: 5px;
+		display: inline;
+	}
+.g{
+		width: 60px;
+		height: 60px;
+		border: 1px solid blue;
+		margin: 5px;
+		display: inline;
+	}
+
+*/
+	/** .child-div{
+	width: 500px;
+	border: 2px solid blue;
+	margin:0 auto;
+	text-align: center;
+	} */
